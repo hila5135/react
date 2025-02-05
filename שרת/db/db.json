@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "name23",
+      "lastName": "rutyh1828@gmail.com",
+      "email": "rutyh1828@gmail.com",
+      "password": "12345",
+      "address": "ben zakay",
+      "phone": "0548571828"
+    },
+    {
+      "id": 1735048531744,
+      "email": "v@v.com",
+      "password": "123456",
+      "firstName": "rryyff",
+      "lastName": "12345",
+      "address": "mkm",
+      "phone": "098765432"
+    },
+    {
+      "id": 1735048561067,
+      "email": "r@r.com",
+      "password": "123456"
+    },
+    {
+      "id": 1735056076483,
+      "email": "g@g.com",
+      "password": "45678"
+    },
+    {
+      "id": 1735056158117,
+      "email": "g@f.c",
+      "password": "1223"
+    },
+    {
+      "id": 1735056199077,
+      "email": "ee",
+      "password": "1212"
+    },
+    {
+      "id": 1735056264012,
+      "email": "rut@gmail.com",
+      "password": "123456789",
+      "firstName": "nechama",
+      "lastName": "lerner",
+      "address": "bbb 3 4",
+      "phone": "098765432"
+    },
+    {
+      "id": 1735057311320,
+      "email": "yafa@gmail.com",
+      "password": "12345",
+      "firstName": "qwerty",
+      "lastName": "yyyy",
+      "address": "cfcfc",
+      "phone": "098765432"
+    },
+    {
+      "id": 1738078356337,
+      "email": "",
+      "password": "4",
+      "firstName": "t",
+      "lastName": "",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": 1738092455340,
+      "firstName": "chahcha",
+      "password": "123",
+      "lastName": "lettt",
+      "email": "rutyh1828@gmail.com",
+      "address": "ben zakay",
+      "phone": "0548571828"
+    },
+    {
+      "id": 1738094045756,
+      "firstName": "yofitofi",
+      "password": "123",
+      "lastName": "rutyh1828@gmail.com",
+      "email": "rutyh1828@gmail.com",
+      "address": "ben zakay",
+      "phone": "0548571828"
+    },
+    {
+      "id": 1738176795494,
+      "firstName": "yofitofi",
+      "password": "12345",
+      "lastName": "rutyh1828@gmail.com",
+      "email": "rutyh1828@gmail.com",
+      "address": "ben zakay",
+      "phone": "0548571828"
+    },
+    {
+      "id": 1738177843314,
+      "firstName": "rutykrrr",
+      "password": "1",
+      "lastName": "rutyh1828@gmail.com",
+      "email": "rutyh1828@gmail.com",
+      "address": "ben zakay",
+      "phone": "0548571828"
+    },
+    {
+      "id": 1738178275872,
+      "firstName": "dfrededc",
+      "password": "089",
+      "lastName": "cdcdc",
+      "email": "cedk",
+      "address": "vcede",
+      "phone": "ccdd"
+    },
+    {
+      "id": 1738186145953,
+      "firstName": "rutykrrr",
+      "password": "17",
+      "lastName": "rutyh1828@gmail.com",
+      "email": "rutyh1828@gmail.com",
+      "address": "ben zakay",
+      "phone": "0548571828"
+    },
+    {
+      "id": 1738197168290,
+      "firstName": " ",
+      "password": "187",
+      "lastName": "",
+      "email": "",
+      "address": "",
+      "phone": ""
+    },
+    {
+      "id": 1738257753879,
+      "firstName": "rutyh1828@gmail.com",
+      "password": "1"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Pasta Alfredo",
+      "description": "Pasta with a rich cream sauce",
+      "authorId": 1,
+      "ingredients": [
+        "200g pasta",
+        "100ml cream",
+        "50g parmesan cheese",
+        "1 clove garlic",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Cook the pasta according to the package instructions. In a separate pan, heat the cream and add the garlic. Stir in the parmesan cheese until melted. Combine the pasta with the sauce and season with salt and pepper."
+    },
+    {
+      "id": 2,
+      "title": "Chicken Curry",
+      "description": "Spicy and flavorful chicken curry",
+      "authorId": 1,
+      "ingredients": [
+        "500g chicken breast",
+        "1 onion",
+        "2 cloves garlic",
+        "400ml coconut milk",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Heat the oil in a pan and sauté the chopped onion and garlic until golden. Add the chicken pieces and cook until browned. Stir in the curry powder and cook for another minute. Pour in the coconut milk and simmer for 20 minutes. Season with salt and pepper."
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Cake",
+      "description": "Rich and moist chocolate cake",
+      "authorId": 3,
+      "ingredients": [
+        "200g flour",
+        "200g sugar",
+        "100g cocoa powder",
+        "1 tsp baking powder",
+        "1 tsp baking soda",
+        "2 eggs",
+        "240ml milk",
+        "120ml vegetable oil",
+        "2 tsp vanilla extract",
+        "240ml boiling water"
+      ],
+      "instructions": "Prehs e oveda to 175° (350°F). In a large bfk."
+    },
+    {
+      "id": 1738269143619,
+      "title": "cgcg",
+      "description": "jgj",
+      "authorId": "1738197168290",
+      "ingredients": [
+        "uyt"
+      ],
+      "instructions": "tt"
+    },
+    {
+      "id": 1738274720792,
+      "title": "orange juice",
+      "description": "very tasty and cooly",
+      "authorId": "1738197168290",
+      "ingredients": [
+        "water",
+        "10 oranges",
+        "sugar",
+        "lemon"
+      ],
+      "instructions": "mix all the oranges together and add all the products."
+    },
+    {
+      "id": 1738444335641,
+      "title": "del,weed",
+      "description": "dweweldd,d;lxcmdkcxmdlx",
+      "authorId": "1738178275872",
+      "ingredients": [
+        "6++++++++++564848"
+      ],
+      "instructions": "xl;kjf nmdsewif ej4fre3iefr"
+    },
+    {
+      "id": 1738444497466,
+      "title": "frtgrfr",
+      "description": "frr",
+      "authorId": "1738197168290",
+      "ingredients": [
+        "trf"
+      ],
+      "instructions": "rfrfgvrvr"
+    },
+    {
+      "id": 1738444586426,
+      "title": "f",
+      "description": "f",
+      "authorId": "1738197168290",
+      "ingredients": [
+        "ccdwe"
+      ],
+      "instructions": "sx"
+    },
+    {
+      "id": 1738444662687,
+      "title": "d",
+      "description": "d",
+      "authorId": "1738197168290",
+      "ingredients": [
+        "d"
+      ],
+      "instructions": "d"
+    },
+    {
+      "id": 1738448383942,
+      "title": "gr",
+      "description": "gr",
+      "authorId": "1738078356337",
+      "ingredients": [
+        "gv"
+      ],
+      "instructions": "gvrf\n\n\n\n"
+    }
+  ]
+}
